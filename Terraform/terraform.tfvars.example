@@ -1,0 +1,14 @@
+aws-access-key = ""
+aws-secret-key = ""
+aws-region = "us-east-1"
+admin-username = ""
+admin-password = ""
+admin-fullname = " doe"
+admin-email = ""
+remote-repo = ""
+job-name= "CI-CD Pipeline"
+secrets = {
+  public = ""
+  private = ""
+  slackToken = ""
+}

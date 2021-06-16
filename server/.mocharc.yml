@@ -1,0 +1,6 @@
+exit: true
+require:
+  - "@babel/register"
+  - "regenerator-runtime"
+recursive: true
+timeout: "10000"
